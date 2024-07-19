@@ -1,0 +1,13 @@
+.buton{
+    padding:5px;
+    width:100%;
+    display: flex;
+    justify-content: start;
+}
+button{
+    background-color: blue;
+    color: white;
+    border:none;
+    padding:10px;
+    margin-right: 10px;
+}
